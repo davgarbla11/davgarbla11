@@ -26,7 +26,7 @@ Soy un apasionado del desarrollo de software enfocado en crear soluciones escala
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Otros Lenguajes**
-`C` | `Java` | `PHP`
+`C` | `C++` | `Lua` | `PL SQL` | `Assembly`  
 
 ---
 
