@@ -1,5 +1,5 @@
 # Hola! Soy David 👋 
-### Estudiante de Ingeniería Informática (Sistemas de Información) - 3º Año
+### Estudiante de Ingeniería Informática (Sistemas de Información) - 4º Año
 
 Soy un apasionado del desarrollo de software enfocado en crear soluciones escalables y eficientes. Actualmente, mi día a día gira en torno al ecosistema de **Node.js**, la contenerización con **Docker** y la creación de interfaces modernas con **React** y **Astro**.
 
