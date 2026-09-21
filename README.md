@@ -5,13 +5,11 @@ Soy un apasionado del desarrollo de software enfocado en crear soluciones escala
 
 ---
 
-<div align="center">
-
 ## 🛠️ Mi Stack Tecnológico
 *Un vistazo a las tecnologías, lenguajes y herramientas con las que trabajo.*
 
 <br>
-
+<div align="center">
 ### 🌐 Frontend & UI
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
